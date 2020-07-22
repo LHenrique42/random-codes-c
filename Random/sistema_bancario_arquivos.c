@@ -45,7 +45,7 @@ int main( void )
                     textFile( bank );
                     break;
                 default:
-                    puts("The coice doesn't exist !");
+                    puts("The choice doesn't exist !");
             }
             puts("--------------------------------");
             puts("");
